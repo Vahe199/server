@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.682ebc34.js",
+    "main.css": "/static/css/main.4a8d74c7.css",
+    "main.js": "/static/js/main.ab3dac3f.js",
     "static/js/787.f1a5832b.chunk.js": "/static/js/787.f1a5832b.chunk.js",
     "static/media/eng.png": "/static/media/eng.089285f97291f9b37eac.png",
     "static/media/dogecoin.svg": "/static/media/dogecoin.b9ff6d42e8304d606584da456d69ed88.svg",
@@ -21,7 +21,6 @@
     "static/media/russtandart.svg": "/static/media/russtandart.5745eecd1bbc40d4ac8559e260f1a108.svg",
     "static/media/homecredit.svg": "/static/media/homecredit.40de7f0307cb1fb54b44eedb67bff440.svg",
     "static/media/perfectmoney.svg": "/static/media/perfectmoney.542898f2b30eb330fe6555b4f3a86262.svg",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "static/media/gazprombank.svg": "/static/media/gazprombank.7b2fe5e9fe0856e25cec2faa8238be29.svg",
     "static/media/halykbank.svg": "/static/media/halykbank.58c1a565dc3218ef25bf9da5353c9c82.svg",
     "static/media/cosmos.svg": "/static/media/cosmos.4b82322ca52c6ab666e4f587199f361b.svg",
@@ -59,12 +58,12 @@
     "static/media/algorand.svg": "/static/media/algorand.64b1dba029a742f863c6d17c1dcc7a30.svg",
     "static/media/eos.svg": "/static/media/eos.8aea144a8435cc4f1498378cb7d051f0.svg",
     "static/media/rosbank.svg": "/static/media/rosbank.6b27899b27e6ca53f5ad451bd63e8c66.svg",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.682ebc34.js.map": "/static/js/main.682ebc34.js.map",
+    "main.4a8d74c7.css.map": "/static/css/main.4a8d74c7.css.map",
+    "main.ab3dac3f.js.map": "/static/js/main.ab3dac3f.js.map",
     "787.f1a5832b.chunk.js.map": "/static/js/787.f1a5832b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.682ebc34.js"
+    "static/css/main.4a8d74c7.css",
+    "static/js/main.ab3dac3f.js"
   ]
 }
