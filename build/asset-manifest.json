@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.4a8d74c7.css",
-    "main.js": "/static/js/main.aeb4b763.js",
+    "main.js": "/static/js/main.05d9be54.js",
     "static/js/787.f1a5832b.chunk.js": "/static/js/787.f1a5832b.chunk.js",
     "static/media/eng.png": "/static/media/eng.089285f97291f9b37eac.png",
     "static/media/dogecoin.svg": "/static/media/dogecoin.b9ff6d42e8304d606584da456d69ed88.svg",
@@ -59,11 +59,11 @@
     "static/media/eos.svg": "/static/media/eos.8aea144a8435cc4f1498378cb7d051f0.svg",
     "static/media/rosbank.svg": "/static/media/rosbank.6b27899b27e6ca53f5ad451bd63e8c66.svg",
     "main.4a8d74c7.css.map": "/static/css/main.4a8d74c7.css.map",
-    "main.aeb4b763.js.map": "/static/js/main.aeb4b763.js.map",
+    "main.05d9be54.js.map": "/static/js/main.05d9be54.js.map",
     "787.f1a5832b.chunk.js.map": "/static/js/787.f1a5832b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4a8d74c7.css",
-    "static/js/main.aeb4b763.js"
+    "static/js/main.05d9be54.js"
   ]
 }
